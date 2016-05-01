@@ -1,0 +1,1203 @@
+{
+	"folder_history":
+	[
+		"/C/Users/sarthak/Dropbox/Frontend",
+		"/C/Users/sarthak/Downloads/Fullbags code",
+		"/D/proj/JustTabIt"
+	],
+	"last_version": 3103,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"box-",
+						"box-shadow"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"script",
+						"script	Tag"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							""
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (All)"
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (This File Only)"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Vintageous/Vintageous.sublime-build",
+						"Vintageous - Test (This File Only)"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "PRETTI",
+				"selected_items":
+				[
+					[
+						"PRETTI",
+						"HTMLPrettify"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"remo",
+						"Remote Edit: Open Remote File Prompt"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"insa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"pak",
+						"Package Control: Disable Package"
+					],
+					[
+						"colorpick",
+						"Color Picker: Insert Color"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"minim",
+						"View: Toggle Minimap"
+					],
+					[
+						"settings",
+						"Preferences: Settings - Default"
+					],
+					[
+						"sche",
+						"Schemr: List all schemes"
+					],
+					[
+						"themr",
+						"Themr: List themes"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 486.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/sarthak/Desktop/landing.html",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/proj/JustTabIt/css/style.css",
+				"/D/proj/JustTabIt/index.html",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"herepls",
+					".image",
+					"rgba(0,0,0,0.7)",
+					"dNam",
+					"name of blah",
+					"black",
+					".category ",
+					".category",
+					".first .category ",
+					"thir",
+					"<div class=\"category\"></div>",
+					" mage",
+					"mage",
+					"image -wrapper",
+					"<div class=\"overlay\"></div>",
+					"image",
+					"row",
+					"imgage",
+					"<div class=\"image image",
+					"class=\"image image",
+					"image",
+					"image image",
+					"5px",
+					"image",
+					"			 	 \n",
+					"font"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 68.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"thid",
+						"third.js"
+					],
+					[
+						"",
+						"index3.html"
+					],
+					[
+						"h",
+						"index.html"
+					],
+					[
+						"css",
+						"css\\style.css"
+					],
+					[
+						"i",
+						"index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"font-",
+						"font-family"
+					],
+					[
+						"bu",
+						"button"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"argi",
+						"margin-top"
+					],
+					[
+						"back",
+						"background-size"
+					],
+					[
+						"marg",
+						"margin-top"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"box-",
+						"box-shadow"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"script",
+						"script	Tag"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/sarthak/Dropbox/Frontend/admin.html",
+					"settings":
+					{
+						"buffer_size": 2918,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/sarthak/Dropbox/Frontend/header.html",
+					"settings":
+					{
+						"buffer_size": 419,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/sarthak/Dropbox/Frontend/landing.html",
+					"settings":
+					{
+						"buffer_size": 7580,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/sarthak/Dropbox/Frontend/css/style.css",
+					"settings":
+					{
+						"buffer_size": 3475,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							""
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (All)"
+						],
+						[
+							"Packages/Vintageous/Vintageous.sublime-build",
+							"Vintageous - Test (This File Only)"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Vintageous/Vintageous.sublime-build",
+						"Vintageous - Test (This File Only)"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"PRETTI",
+						"HTMLPrettify"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"remo",
+						"Remote Edit: Open Remote File Prompt"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"insa",
+						"Indentation: Convert to Spaces"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"INSTA",
+						"Package Control: Install Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"pak",
+						"Package Control: Disable Package"
+					],
+					[
+						"colorpick",
+						"Color Picker: Insert Color"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"minim",
+						"View: Toggle Minimap"
+					],
+					[
+						"settings",
+						"Preferences: Settings - Default"
+					],
+					[
+						"sche",
+						"Schemr: List all schemes"
+					],
+					[
+						"themr",
+						"Themr: List themes"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 462.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/sarthak/Dropbox/Frontend"
+			],
+			"file_history":
+			[
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/sarthak/Desktop/landing.html",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/proj/JustTabIt/css/style.css",
+				"/D/proj/JustTabIt/index.html",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/D/Fold4/Sublime Text Build 3103 x64/Data/Packages/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 70.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"div",
+					"title",
+					"main",
+					"herepls",
+					".image",
+					"rgba(0,0,0,0.7)",
+					"dNam",
+					"name of blah",
+					"black",
+					".category ",
+					".category",
+					".first .category ",
+					"thir",
+					"<div class=\"category\"></div>",
+					" mage",
+					"mage",
+					"image -wrapper",
+					"<div class=\"overlay\"></div>",
+					"image",
+					"row",
+					"imgage",
+					"<div class=\"image image",
+					"class=\"image image",
+					"image",
+					"image image",
+					"5px",
+					"image",
+					"			 	 \n",
+					"font"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\sarthak\\Dropbox\\Frontend"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/sarthak/Dropbox/Frontend/admin.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2918,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2429,
+										2429
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"auto_name": "",
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-OceanicNext (SL).tmTheme",
+									"highlight_line": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": true,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_insert",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 118
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 583.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/sarthak/Dropbox/Frontend/header.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 419,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										418,
+										418
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-OceanicNext (SL).tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"vintage":
+									{
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 59
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/sarthak/Dropbox/Frontend/landing.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7580,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										453,
+										30
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-OceanicNext (SL).tmTheme",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false,
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": true,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_insert",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 0
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/C/Users/sarthak/Dropbox/Frontend/css/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3475,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3470,
+										3470
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-OceanicNext (SL).tmTheme",
+									"syntax": "Packages/CSS3/CSS3.tmLanguage",
+									"translate_tabs_to_spaces": false,
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": true,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_insert",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 20
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 4483.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 68.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,613,75,75,731",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"css",
+						"css\\style.css"
+					],
+					[
+						"",
+						"landing.html"
+					],
+					[
+						"thid",
+						"third.js"
+					],
+					[
+						"h",
+						"index.html"
+					],
+					[
+						"i",
+						"index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+				"vintage":
+				{
+				}
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

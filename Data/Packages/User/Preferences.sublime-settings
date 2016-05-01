@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Material-Theme-OceanicNext (SL).tmTheme",
+	"font_face": "Roboto Mono",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"ColorPick",
+		"Vintage"
+	],
+	"theme": "Material-Theme.sublime-theme"
+}

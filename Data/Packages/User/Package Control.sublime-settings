@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketGuard",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"Color Highlighter",
+		"ColorPick",
+		"ColorPicker",
+		"CSS3",
+		"Emmet",
+		"GitGutter",
+		"Google Search",
+		"Goto-CSS-Declaration",
+		"HTML Page Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTML2Haml",
+		"HTML5",
+		"HTMLAttributes",
+		"jQuery",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"RemoteEdit",
+		"Schemr",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeOnSaveBuild",
+		"SublimeREPL",
+		"Terminal",
+		"Themr",
+		"View In Browser",
+		"VIM Navigation",
+		"Vintageous"
+	]
+}
